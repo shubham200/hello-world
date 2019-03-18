@@ -1,1 +1,3 @@
-# hello-world
+# hello-world....
+
+hey!!! this is shubham .. I am a btech student ..  I want to explore github so that i can take advantage of this platform
